@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/tenzies/static/css/main.253815c8.css",
+    "main.js": "/tenzies/static/js/main.dbdc6d93.js",
+    "static/media/dice-six.png": "/tenzies/static/media/dice-six.032c37935047cb6d1393.png",
+    "static/media/dice-five.png": "/tenzies/static/media/dice-five.1791ba05e4e35a0670b3.png",
+    "static/media/dice-three.png": "/tenzies/static/media/dice-three.fd8f38f7c99c1bda2424.png",
+    "static/media/dice-four.png": "/tenzies/static/media/dice-four.e73725611bcc72a7e99a.png",
+    "static/media/dice-two.png": "/tenzies/static/media/dice-two.5c37e18964c12d2604f2.png",
+    "static/media/dice-one.png": "/tenzies/static/media/dice-one.103db2bfe28bb8029797.png",
+    "index.html": "/tenzies/index.html",
+    "main.253815c8.css.map": "/tenzies/static/css/main.253815c8.css.map",
+    "main.dbdc6d93.js.map": "/tenzies/static/js/main.dbdc6d93.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.253815c8.css",
+    "static/js/main.dbdc6d93.js"
+  ]
+}
